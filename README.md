@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <!-- Add your social media links here -->
+    <a href="https://www.linkedin.com/in/darshan-jain-823238226/"/>
 </p>
 
 <h3 align="left">Skills</h3>
