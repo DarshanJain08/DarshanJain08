@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darshan Jain</h1>
+<h1 align="left">Hi 👋, I'm Darshan Jain</h1>
     I am currently pursuing my B.Tech in Computer Science and Engineering at KL University. I hold a strong proficiency 
     in programming languages such as Java, C, and Python. I am competent in applying Data Structures and Algorithms to 
     develop efficient solutions. I have hands-on experience in developing web applications using frameworks like Spring 
